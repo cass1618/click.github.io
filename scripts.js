@@ -10,6 +10,16 @@ jQuery("#dog").click( function image ()
   alert("this is a dog");
 })
 
+jQuery("#cat2").click( function image ()
+{
+  alert("this is a cat");
+})
+
+jQuery("#dog2").click( function image ()
+{
+  alert("this is a dog");
+})
+
 jQuery("#platypus").click( function image ()
 {
   alert("this is a platypus");
